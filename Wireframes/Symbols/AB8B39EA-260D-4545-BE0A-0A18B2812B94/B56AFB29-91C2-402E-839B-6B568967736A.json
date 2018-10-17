@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 12
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -33,7 +33,6 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "B56AFB29-91C2-402E-839B-6B568967736A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,13 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
+    "height": 27,
     "width": 202,
-    "x": 60,
-    "y": 22
+    "x": 57,
+    "y": 16
   },
-  "glyphBounds": "{{0, 2}, {26, 12}}",
-  "hasClippingMask": false,
+  "glyphBounds": "{{1, 5}, {38, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,7 +85,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 12
+            "size": 18
           }
         },
         "paragraphStyle": {

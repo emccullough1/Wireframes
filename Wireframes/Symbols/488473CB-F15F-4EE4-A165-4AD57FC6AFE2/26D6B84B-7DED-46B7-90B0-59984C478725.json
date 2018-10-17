@@ -1,7 +1,6 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "26D6B84B-7DED-46B7-90B0-59984C478725",
   "edited": false,
   "exportOptions": {
@@ -22,7 +21,6 @@
     "x": 0,
     "y": 0
   },
-  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -79,68 +77,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "endMarkerType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.7568627450980392,
-          "green": 0.9411764705882353,
-          "red": 0.7568627450980392
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0.3574272606091541,
-          "green": 0.3574272606091541,
-          "red": 0.3694462159863945
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": -2,
-        "offsetY": 3,
-        "spread": 0
-      }
-    ],
-    "startMarkerType": 0,
-    "windingRule": 1
-  }
+  "shouldBreakMaskChain": false
 }
