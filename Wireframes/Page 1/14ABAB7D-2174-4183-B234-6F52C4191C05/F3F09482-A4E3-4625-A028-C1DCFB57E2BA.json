@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3F09482-A4E3-4625-A028-C1DCFB57E2BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D080B0B3-20BB-42AE-999E-815BAECD114B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3224F0F-2B57-489A-B9CE-63495B30184B",
+    "height": 58,
+    "width": 308,
+    "x": 36,
+    "y": 341
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input/sign in copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0E33497-3DDD-4E2F-AE71-DBFC38938EB9",
+      "overrideName": "B56AFB29-91C2-402E-839B-6B568967736A_stringValue",
+      "value": "email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEA2EB9B-65A5-468F-A98E-46EE04FC4C2B",
+      "overrideName": "251428DC-C960-4A4E-ACC3-2A128A2352A4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cd8480d5e0b8fd2b42e1a957c3bc591b2137ab94.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BD93969-2CEE-40AE-88BF-9F6375B195AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.9568862584762243,
+          "green": 0.9568862584762243,
+          "red": 0.9599542942176871
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": -1,
+        "offsetY": 1,
+        "spread": 4
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A3756D3-274F-4100-94DF-917BBC1F7597",
+  "verticalSpacing": 0
+}
